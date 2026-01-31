@@ -1,2 +1,1 @@
-# Oj_cup.png
-hello ola
+hi hello hi biiipo
